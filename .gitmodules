@@ -7,3 +7,6 @@
 [submodule "2-Sibiri4ok"]
 	path = 2-Sibiri4ok
 	url = git@github.com:spbu-coding-2023/2-Sibiri4ok.git
+[submodule "2-mdcp10"]
+	path = 2-mdcp10
+	url = git@github.com:spbu-coding-2023/2-mdcp10.git
