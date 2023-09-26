@@ -61,3 +61,6 @@
 [submodule "2-far1yg"]
 	path = 2-far1yg
 	url = git@github.com:spbu-coding-2023/2-far1yg.git
+[submodule "2-homka122"]
+	path = 2-homka122
+	url = git@github.com:spbu-coding-2023/2-homka122.git
