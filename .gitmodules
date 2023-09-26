@@ -46,3 +46,6 @@
 [submodule "2-VersusXX"]
 	path = 2-VersusXX
 	url = git@github.com:spbu-coding-2023/2-VersusXX.git
+[submodule "2-VyacheslavIurevich"]
+	path = 2-VyacheslavIurevich
+	url = git@github.com:spbu-coding-2023/2-VyacheslavIurevich.git
