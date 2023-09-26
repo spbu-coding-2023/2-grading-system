@@ -34,3 +34,6 @@
 [submodule "2-OGchukh"]
 	path = 2-OGchukh
 	url = git@github.com:spbu-coding-2023/2-OGchukh.git
+[submodule "2-RodionovMaxim05"]
+	path = 2-RodionovMaxim05
+	url = git@github.com:spbu-coding-2023/2-RodionovMaxim05.git
