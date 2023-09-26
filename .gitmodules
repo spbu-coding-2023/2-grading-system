@@ -55,3 +55,6 @@
 [submodule "2-bikakuka"]
 	path = 2-bikakuka
 	url = git@github.com:spbu-coding-2023/2-bikakuka.git
+[submodule "2-d031273"]
+	path = 2-d031273
+	url = git@github.com:spbu-coding-2023/2-d031273.git
