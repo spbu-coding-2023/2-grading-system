@@ -49,3 +49,6 @@
 [submodule "2-VyacheslavIurevich"]
 	path = 2-VyacheslavIurevich
 	url = git@github.com:spbu-coding-2023/2-VyacheslavIurevich.git
+[submodule "2-Ycyken"]
+	path = 2-Ycyken
+	url = git@github.com:spbu-coding-2023/2-Ycyken.git
