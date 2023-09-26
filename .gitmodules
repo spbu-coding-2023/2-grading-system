@@ -43,3 +43,6 @@
 [submodule "2-Sem4kok"]
 	path = 2-Sem4kok
 	url = git@github.com:spbu-coding-2023/2-Sem4kok.git
+[submodule "2-VersusXX"]
+	path = 2-VersusXX
+	url = git@github.com:spbu-coding-2023/2-VersusXX.git
