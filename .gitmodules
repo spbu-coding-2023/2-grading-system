@@ -16,3 +16,6 @@
 [submodule "2-starscream1337"]
 	path = 2-starscream1337
 	url = git@github.com:spbu-coding-2023/2-starscream1337.git
+[submodule "2-AlexandrKudrya"]
+	path = 2-AlexandrKudrya
+	url = git@github.com:spbu-coding-2023/2-AlexandrKudrya.git
