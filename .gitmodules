@@ -94,3 +94,6 @@
 [submodule "2-Friend-zva"]
 	path = 2-Friend-zva
 	url = git@github.com:spbu-coding-2023/2-Friend-zva.git
+[submodule "2-MigunovaAnastasia1"]
+	path = 2-MigunovaAnastasia1
+	url = git@github.com:spbu-coding-2023/2-MigunovaAnastasia1.git
