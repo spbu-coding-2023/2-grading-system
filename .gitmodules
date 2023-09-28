@@ -109,3 +109,6 @@
 [submodule "2-IslamZZZZ"]
 	path = 2-IslamZZZZ
 	url = git@github.com:spbu-coding-2023/2-IslamZZZZ.git
+[submodule "2-Kirilich"]
+	path = 2-Kirilich
+	url = git@github.com:spbu-coding-2023/2-Kirilich.git
