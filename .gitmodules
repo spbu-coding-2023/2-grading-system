@@ -103,3 +103,6 @@
 [submodule "2-vicheka-sk"]
 	path = 2-vicheka-sk
 	url = git@github.com:spbu-coding-2023/2-vicheka-sk.git
+[submodule "2-Azamat-Ishbaev"]
+	path = 2-Azamat-Ishbaev
+	url = git@github.com:spbu-coding-2023/2-Azamat-Ishbaev.git
