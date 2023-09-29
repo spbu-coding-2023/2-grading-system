@@ -133,3 +133,6 @@
 [submodule "2-TerrMen"]
 	path = 2-TerrMen
 	url = git@github.com:spbu-coding-2023/2-TerrMen.git
+[submodule "2-spisladqo"]
+	path = 2-spisladqo
+	url = git@github.com:spbu-coding-2023/2-spisladqo.git
