@@ -148,3 +148,6 @@
 [submodule "2-V4k4"]
 	path = 2-V4k4
 	url = git@github.com:spbu-coding-2023/2-V4k4.git
+[submodule "2-dinozaurnugget"]
+	path = 2-dinozaurnugget
+	url = git@github.com:spbu-coding-2023/2-dinozaurnugget.git
