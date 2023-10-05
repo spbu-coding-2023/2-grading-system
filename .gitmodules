@@ -157,3 +157,6 @@
 [submodule "2-DripCat4er"]
 	path = 2-DripCat4er
 	url = git@github.com:spbu-coding-2023/2-DripCat4er.git
+[submodule "2-Vladzabaev"]
+	path = 2-Vladzabaev
+	url = git@github.com:spbu-coding-2023/2-Vladzabaev.git
