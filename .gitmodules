@@ -160,3 +160,6 @@
 [submodule "2-Vladzabaev"]
 	path = 2-Vladzabaev
 	url = git@github.com:spbu-coding-2023/2-Vladzabaev.git
+[submodule "2-DronShock"]
+	path = 2-DronShock
+	url = git@github.com:spbu-coding-2023/2-DronShock.git
