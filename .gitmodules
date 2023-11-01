@@ -163,3 +163,6 @@
 [submodule "2-DronShock"]
 	path = 2-DronShock
 	url = git@github.com:spbu-coding-2023/2-DronShock.git
+[submodule "2-D31IRIUM"]
+	path = 2-D31IRIUM
+	url = git@github.com:spbu-coding-2023/2-D31IRIUM.git
