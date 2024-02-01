@@ -166,3 +166,6 @@
 [submodule "2-D31IRIUM"]
 	path = 2-D31IRIUM
 	url = git@github.com:spbu-coding-2023/2-D31IRIUM.git
+[submodule "2-MaksimQR"]
+	path = 2-MaksimQR
+	url = git@github.com:spbu-coding-2023/2-MaksimQR.git
