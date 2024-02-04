@@ -169,3 +169,6 @@
 [submodule "2-MaksimQR"]
 	path = 2-MaksimQR
 	url = git@github.com:spbu-coding-2023/2-MaksimQR.git
+[submodule "2-AeugeneA"]
+	path = 2-AeugeneA
+	url = git@github.com:spbu-coding-2023/2-AeugeneA.git
