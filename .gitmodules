@@ -172,3 +172,6 @@
 [submodule "2-AeugeneA"]
 	path = 2-AeugeneA
 	url = git@github.com:spbu-coding-2023/2-AeugeneA.git
+[submodule "2-iakhammatova"]
+	path = 2-iakhammatova
+	url = git@github.com:spbu-coding-2023/2-iakhammatova.git
